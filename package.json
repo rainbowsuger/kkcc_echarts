@@ -1,0 +1,16 @@
+
+{
+  "name": "dbj-echarts",
+  "version": "0.1.0",
+  "description": "echarts组件再封装",
+  "keywords": [
+    "dbj",
+    "dbj-echarts"
+  ],
+  "license": "MIT",
+  "author": "rainbow",
+  "main": "lib/index.js",
+  "dependencies": {
+    "echarts": "^4.7.0"
+  }
+}
