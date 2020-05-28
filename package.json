@@ -1,11 +1,11 @@
 
 {
-  "name": "dbj-echarts",
+  "name": "kkcc-echarts",
   "version": "0.1.0",
   "description": "echarts组件再封装",
   "keywords": [
-    "dbj",
-    "dbj-echarts"
+    "kkcc",
+    "kkcc-echarts"
   ],
   "license": "MIT",
   "author": "rainbow",
